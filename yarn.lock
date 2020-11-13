@@ -9160,10 +9160,10 @@ react-is@^17.0.1:
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-17.0.1.tgz#5b3531bd76a645a4c9fb6e693ed36419e3301339"
   integrity sha512-NAnt2iGDXohE5LI7uBnLnqvLQMtzhkiAOLXTmv+qnF9Ky7xAPcX8Up/xWIhxvLVGJvuLiNc4xQLtuqDRzb4fSA==
 
-react-og-buttons@^1.1.0:
-  version "1.1.0"
-  resolved "https://registry.yarnpkg.com/react-og-buttons/-/react-og-buttons-1.1.0.tgz#ce749af55c0aaf542c59a8b71ffe4bd1490c6456"
-  integrity sha512-4aL5uHpXaEKnM1VqaFN2oJn0wggE64xjQKAqsxPmR3Y7LJpM80i4Fz39iowHd/S2ad+uNqxsu/lmOapFkV3Ezw==
+react-og-buttons@^1.1.1:
+  version "1.1.1"
+  resolved "https://registry.yarnpkg.com/react-og-buttons/-/react-og-buttons-1.1.1.tgz#0bf8ba9268e325c797a0d5210aabfc1022dc6e81"
+  integrity sha512-vKlotD5uDgPH7nydtS608Czmt82XfZUg8ZyZtAf61f/UBLsKg5gQWzrMc56XE5l5cfQbW/y0n61t6wz0f7HcLA==
   dependencies:
     styled-components "^5.2.0"
 
